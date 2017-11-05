@@ -4,3 +4,6 @@ D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\Descr
 D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\DescribeImageApp.pdb
 D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.exe
 D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.pdb
+D:\GitHub\.NET-AI.git\trunk\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\DescribeImageApp.exe.config
+D:\GitHub\.NET-AI.git\trunk\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.exe
+D:\GitHub\.NET-AI.git\trunk\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.pdb

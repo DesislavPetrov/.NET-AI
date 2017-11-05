@@ -1,0 +1,1 @@
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\OcrApp\bin\Debug\OcrApp.exe.config

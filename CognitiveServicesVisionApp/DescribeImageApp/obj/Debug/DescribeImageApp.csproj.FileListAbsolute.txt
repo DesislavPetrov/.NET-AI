@@ -1,0 +1,6 @@
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\DescribeImageApp.exe.config
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.csprojResolveAssemblyReference.cache
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\DescribeImageApp.exe
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\bin\Debug\DescribeImageApp.pdb
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.exe
+D:\GitHub\AI-Dot-Net\CognitiveServicesVisionApp\DescribeImageApp\obj\Debug\DescribeImageApp.pdb
